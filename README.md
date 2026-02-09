@@ -6,7 +6,7 @@
 
 - 🎓 Undergraduate at **SLIIT | Software Engineering**
 - 💡 Passionate about building **scalable web applications** and **data-driven solutions**
-- 🌱 Currently working on **EcoHarvest**, a sustainable food waste management platform
+
 
 ---
 
