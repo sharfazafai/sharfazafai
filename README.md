@@ -1,12 +1,8 @@
 
-
 <h1 align="center">Hi 👋, I'm Fathima Sharfa</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | 💻 Web & E-commerce Developer | 📊 Data Enthusiast
-🔹 Undergraduate at SLIIT | Software Engineering
-🔹 Passionate about building scalable web applications and data-driven solutions
-🔹 Currently working on EcoHarvest, a sustainable food waste management platform </h3>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
