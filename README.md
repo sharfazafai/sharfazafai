@@ -29,8 +29,24 @@
 
 ---
 
+## 🔗 Connect with Me
 
+<p>
+  <a href="https://linkedin.com/Fathima Sharfa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:sharfzafai22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-🌱 **Currently Learning:** MERN stack & mobile app development with Android Studio  
+  <a href="https://instagram.com/___.sharfa.___">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+  
 📫 **How to reach me:** Gmail  
 💡 **Fun fact:** I love coding & solving problems!
