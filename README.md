@@ -32,7 +32,7 @@
 ## 🔗 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/Fathima Sharfa">
+  <a href="https://www.linkedin.com/in/fathima-sharfa-681441269/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
